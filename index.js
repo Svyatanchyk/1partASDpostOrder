@@ -114,6 +114,6 @@ myTree.traverseDFS((node) => {
 }, 'postOrder');
 console.log(myTree);
 
-document.body.innerHTML = 
+document.body.innerHTML = `
 <a href="https://youtu.be/iys-2Pc4SKk?t=72">ВКЛЮЧИТЬ БИТ БОКС МОНСТРА</a>
-;
+`;
